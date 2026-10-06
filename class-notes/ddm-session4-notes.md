@@ -46,6 +46,8 @@ Applications by sector: manufacturers (root causes of issues, competitor product
 - **NER:** tag entities by type, e.g. "L'Oréal" → organization, "Italy" → location.
 - **Sentiment:** the sample sentence came out as neutral.
 - **Topic modelling:** assigned the text to themes such as travel, education, career.
+- **Areas of application:** many sectors, but the ones of particular relevance are those tied to marketing, since that is the goal of the course (slide 14: telecom, retail, manufacturers).
+- **Coca-Cola video** (shown at the start of class, slide 6): _transcript and summary pending, exact video not yet identified._
 - **General rules for text mining:** success depends on quality of data, data cleansing, selection of algorithms, scalability, evaluation and ethical boundaries (matches slide 12).
 
 ---
