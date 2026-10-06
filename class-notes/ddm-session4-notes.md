@@ -69,8 +69,14 @@ Applications by sector: manufacturers (root causes of issues, competitor product
 - Tools: SSDT, Sisense, RapidMiner, IBM Cognos, SPSS Modeler, KNIME, Weka, Orange, Mahout, Spark, Python, H2O, SAS, Oracle, etc.
 - Slide's message: marketers will most likely **not mine data themselves** – they use tools / analysts.
 
-**[PROF]**
-- _(waiting for your notes)_
+**[PROF]** (examples for each data mining algorithm)
+- **Association rule mining:** products on Amazon that are correlated or linked (e.g. "customers also bought").
+- **Classification:** e.g. spam emails (spam / not spam).
+- **Neural networks:** (no example noted yet).
+- **Clustering:** groups of homogeneous data, e.g. customer segmentation.
+- **Sequential patterns:** e.g. the order in which movies are watched.
+- **Regression:** predicts continuous numerical values.
+- **Anomaly detection:** weird patterns, e.g. fraud, banks.
 
 ---
 
@@ -152,3 +158,4 @@ _(Everything you send me gets added here and then merged into the sections above
 1. Text mining pipeline demo on one sentence: tokenization → stop-word removal → stemming ("finished" → "finish") → NER (L'Oréal = organization, Italy = location) → sentiment (neutral) → topic modelling (travel, education, career). → merged into section 2.
 2. General rules for text mining success: data quality, data cleansing, algorithm selection, scalability, evaluation, ethical boundaries. → merged into section 2.
 3. Areas of application: focus on those particularly relevant to marketing (the course goal). Coca-Cola opening video: transcript + summary added (Coca-Cola social listening Hub, 33 mentions/min). → merged into section 2.
+4. Data mining algorithm examples: association (Amazon related products), classification (spam), neural networks, clustering (segmentation), sequential patterns (movie viewing order), regression (continuous values), anomalies (fraud, banks). → merged into section 3.
