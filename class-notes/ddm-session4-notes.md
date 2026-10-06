@@ -46,6 +46,7 @@ Applications by sector: manufacturers (root causes of issues, competitor product
 - **NER:** tag entities by type, e.g. "L'Oréal" → organization, "Italy" → location.
 - **Sentiment:** the sample sentence came out as neutral.
 - **Topic modelling:** assigned the text to themes such as travel, education, career.
+- **General rules for text mining:** success depends on quality of data, data cleansing, selection of algorithms, scalability, evaluation and ethical boundaries (matches slide 12).
 
 ---
 
@@ -144,3 +145,4 @@ Word cloud – Microsoft: crowdstrike, windows, azure, copilot, openai, nvidia, 
 _(Everything you send me gets added here and then merged into the sections above.)_
 
 1. Text mining pipeline demo on one sentence: tokenization → stop-word removal → stemming ("finished" → "finish") → NER (L'Oréal = organization, Italy = location) → sentiment (neutral) → topic modelling (travel, education, career). → merged into section 2.
+2. General rules for text mining success: data quality, data cleansing, algorithm selection, scalability, evaluation, ethical boundaries. → merged into section 2.
