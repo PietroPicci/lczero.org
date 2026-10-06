@@ -148,3 +148,4 @@ _(Everything you send me gets added here and then merged into the sections above
 
 1. Text mining pipeline demo on one sentence: tokenization → stop-word removal → stemming ("finished" → "finish") → NER (L'Oréal = organization, Italy = location) → sentiment (neutral) → topic modelling (travel, education, career). → merged into section 2.
 2. General rules for text mining success: data quality, data cleansing, algorithm selection, scalability, evaluation, ethical boundaries. → merged into section 2.
+3. Areas of application: focus on those particularly relevant to marketing (the course goal). Coca-Cola opening video: transcript + summary requested (pending). → merged into section 2.
