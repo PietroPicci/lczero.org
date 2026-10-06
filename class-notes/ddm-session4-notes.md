@@ -99,7 +99,9 @@ Applications by sector: manufacturers (root causes of issues, competitor product
 - Case – **Crypto**: social-media sentiment used to predict short-term crypto prices (linear regression, boosting, neural nets); sentiment sampled 3×/day; price driven by perception more than regulation; final model profitable. (Full article on Blackboard.)
 
 **[PROF]**
-- _(waiting for your notes)_
+- **Social listening:** (she introduced the topic; no further detail noted yet).
+- **Sentiment analysis:** classifies mentions as positive, negative or neutral about you, i.e. what the consumer perceives of the brand.
+- **Boeing** (case, slide 30): example of sentiment/reputation tracking after the China Eastern 737-800 crash.
 
 ---
 
@@ -159,3 +161,4 @@ _(Everything you send me gets added here and then merged into the sections above
 2. General rules for text mining success: data quality, data cleansing, algorithm selection, scalability, evaluation, ethical boundaries. → merged into section 2.
 3. Areas of application: focus on those particularly relevant to marketing (the course goal). Coca-Cola opening video: transcript + summary added (Coca-Cola social listening Hub, 33 mentions/min). → merged into section 2.
 4. Data mining algorithm examples: association (Amazon related products), classification (spam), neural networks, clustering (segmentation), sequential patterns (movie viewing order), regression (continuous values), anomalies (fraud, banks). → merged into section 3.
+5. Social listening introduced; sentiment analysis = positive/negative/neutral view of what consumers perceive about you; Boeing case. → merged into section 5.
