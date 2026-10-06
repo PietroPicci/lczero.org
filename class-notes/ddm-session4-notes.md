@@ -39,8 +39,13 @@ Success factors: data quality ("garbage in, garbage out"), cleansing, algorithm 
 Applications by sector: manufacturers (root causes of issues, competitor products), government (fraud, public sentiment), finance (call-center transcripts, money laundering), retail (profitable customers, brand on social), legal, healthcare, telecom (churn, up/cross-sell), life sciences, insurance.
 **Most relevant for marketing managers:** Telecom (churn, up/cross-sell), Retail (loyal/profitable customers, brand management), Manufacturers (market trends, competitors).
 
-**[PROF]**
-- _(waiting for your notes)_
+**[PROF]** (walking through the pipeline on a sample sentence)
+- **Tokenization:** literally break the sentence down into chunks (tokens).
+- **Stop-word elimination:** remove words that are not very meaningful.
+- **Stemming:** take the verbs and reduce them to their basic form (e.g. "finished" → "finish").
+- **NER:** tag entities by type, e.g. "L'Oréal" → organization, "Italy" → location.
+- **Sentiment:** the sample sentence came out as neutral.
+- **Topic modelling:** assigned the text to themes such as travel, education, career.
 
 ---
 
@@ -137,3 +142,5 @@ Word cloud – Microsoft: crowdstrike, windows, azure, copilot, openai, nvidia, 
 
 ## Running log of professor's remarks (chronological)
 _(Everything you send me gets added here and then merged into the sections above.)_
+
+1. Text mining pipeline demo on one sentence: tokenization → stop-word removal → stemming ("finished" → "finish") → NER (L'Oréal = organization, Italy = location) → sentiment (neutral) → topic modelling (travel, education, career). → merged into section 2.
